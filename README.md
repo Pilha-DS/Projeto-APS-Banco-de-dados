@@ -16,7 +16,6 @@ Cada setor foi modelado de forma forma indivual por cada grupo, porem conjunta n
 
 ## Integrantes e Setores
 
-|------------------|--------------------------|
 | Integrante       | Setor                    |
 |------------------|--------------------------|
 | Isabelle         | Compras                  |
